@@ -1,5 +1,5 @@
 {
-	"name": "idris-muhammad",
+	"athor": "Idris Muhammad",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
